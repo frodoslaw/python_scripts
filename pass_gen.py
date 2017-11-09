@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#Basic password generator
+# Basic password generator
 
 import string, random
 def passgenerator():
